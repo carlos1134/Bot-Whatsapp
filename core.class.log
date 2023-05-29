@@ -1,0 +1,19 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491161246499@s.whatsapp.net',
+    fromMe: false,
+    id: 'E7549FE15D993E8F64',
+    participant: undefined
+  },
+  messageTimestamp: 1685372204,
+  pushName: 'Carlitos',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5491161246499'
+}
